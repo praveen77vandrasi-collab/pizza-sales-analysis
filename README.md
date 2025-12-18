@@ -1,8 +1,6 @@
-🍕 Pizza Sales Analysis Dashboard
+Pizza Sales Analysis Dashboard
 
-End-to-End Data Analysis Project using SQL & Power BI
-
-📌 Project Overview
+End-to-End Data Analysis Project using SQL and Power BI
 
 This project analyzes pizza sales data to uncover key business insights such as revenue trends, best-selling pizzas, customer ordering patterns, and peak sales periods.
 The goal is to help a pizza restaurant improve decision-making related to sales strategy, inventory planning, and promotions.
